@@ -1,0 +1,4 @@
+BOT_TOKEN=
+DB_URL=postgresql+psycopg://username:password@server/db
+CHAT_ID=
+ADMIN_ID=
